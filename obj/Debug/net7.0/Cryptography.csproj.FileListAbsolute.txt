@@ -1,0 +1,15 @@
+D:\ProjetosSimples\Cryptography\bin\Debug\net7.0\Cryptography.exe
+D:\ProjetosSimples\Cryptography\bin\Debug\net7.0\Cryptography.deps.json
+D:\ProjetosSimples\Cryptography\bin\Debug\net7.0\Cryptography.runtimeconfig.json
+D:\ProjetosSimples\Cryptography\bin\Debug\net7.0\Cryptography.dll
+D:\ProjetosSimples\Cryptography\bin\Debug\net7.0\Cryptography.pdb
+D:\ProjetosSimples\Cryptography\obj\Debug\net7.0\Cryptography.csproj.AssemblyReference.cache
+D:\ProjetosSimples\Cryptography\obj\Debug\net7.0\Cryptography.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjetosSimples\Cryptography\obj\Debug\net7.0\Cryptography.AssemblyInfoInputs.cache
+D:\ProjetosSimples\Cryptography\obj\Debug\net7.0\Cryptography.AssemblyInfo.cs
+D:\ProjetosSimples\Cryptography\obj\Debug\net7.0\Cryptography.csproj.CoreCompileInputs.cache
+D:\ProjetosSimples\Cryptography\obj\Debug\net7.0\Cryptography.dll
+D:\ProjetosSimples\Cryptography\obj\Debug\net7.0\refint\Cryptography.dll
+D:\ProjetosSimples\Cryptography\obj\Debug\net7.0\Cryptography.pdb
+D:\ProjetosSimples\Cryptography\obj\Debug\net7.0\Cryptography.genruntimeconfig.cache
+D:\ProjetosSimples\Cryptography\obj\Debug\net7.0\ref\Cryptography.dll
